@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Safak Yildiz</h1>
+<h1 align="center">Hi 👋, I'm Şafak YILDIZ</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
 - 🔭 I’m currently working on **.NET Reservation Systems**
