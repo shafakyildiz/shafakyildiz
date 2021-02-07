@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@safakyildiz](https://medium.com/@safakyildiz)
 
-- 💬 Ask me about **c#, python, .net, javascript**
+- 💬 Ask me about **C#, Python, .NET, Javascript**
 
 - 📫 How to reach me **shafakyildiz@gmail.com**
 
