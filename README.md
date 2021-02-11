@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **shafakyildiz@gmail.com**
 
-- 📄 Know about my experiences [https://docdro.id/h3hpnp1](https://docdro.id/Wjm4avk)
+- 📄 Know about my experiences [https://docdro.id/VdeGi0Q](https://docdro.id/Wjm4avk)
 
 
 <h3 align="left">Languages and Tools:</h3>
