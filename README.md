@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Şafak YILDIZ</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **.NET Reservation Systems**
+- 🔭 I’m currently working on **E-Commerce and Reservation Systems**
 
-- 🌱 I’m currently learning **.NET, React**
+- 🌱 I’m currently learning **ReactJS, .NET Core**
 
 - 👨‍💻 All of my projects are available at [shafakyildiz.github.io](shafakyildiz.github.io)
 
