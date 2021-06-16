@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **E-Commerce and Reservation Systems**
 
-- 🌱 I’m currently learning **ReactJS, .NET Core**
+- 🌱 I’m currently learning **ReactJS, VueJS, .NET Core**
 
 - 👨‍💻 All of my projects are available at [shafakyildiz.github.io](shafakyildiz.github.io)
 
