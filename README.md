@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Şafak YILDIZ</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **E-Commerce and Reservation Systems**
+- 🔭 I’m currently working on **E-Commerce, Reservation Systems, CRUD applications**
 
 - 🌱 I’m currently learning **ReactJS, VueJS, .NET Core**
 
