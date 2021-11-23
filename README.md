@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CRUD applications and E-Commerce systems**
 
-- 🌱 I’m currently learning **React, VueJS, Angular, .NET Core**
+- 🌱 I’m currently learning **React, VueJS, Angular, .NET**
 
 - 👨‍💻 All of my projects are available at [shafakyildiz.github.io](shafakyildiz.github.io)
 
