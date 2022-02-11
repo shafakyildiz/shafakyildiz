@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safak Yildiz</h1>
 <h3 align="center">A passionate software developer from Turkey</h3>
 
-- 🔭 I’m currently working on **CRUD applications and E-Commerce**
+- 🔭 I’m currently working on **CRUD applications, Diverse Dashboards, and E-Commerce apps**
 
 - 🌱 I’m currently learning **React, VueJS, Angular, Svelte, .NET**
 
