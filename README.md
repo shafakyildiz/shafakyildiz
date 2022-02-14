@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CRUD applications, Diverse Dashboards, and E-Commerce apps**
 
-- 🌱 I’m currently learning **React, VueJS, Angular, Svelte, .NET, SQL**
+- 🌱 I’m currently learning **React, Angular, Vue, Svelte, .NET, SQL**
 
 - 👨‍💻 All of my projects are available at [shafakyildiz.github.io](shafakyildiz.github.io)
 
