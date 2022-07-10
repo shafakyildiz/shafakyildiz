@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Node, .NET, SQL, Solidity, Svelte**
 
-- 👨‍💻 All of my projects are available at [shafakyildiz.github.io](shafakyildiz.github.io)
+- 👨‍💻 All of my projects are available at https://shafakyildiz.github.io/
 
 - 📝 I regularly write articles on [https://medium.com/@safakyildiz](https://medium.com/@safakyildiz)
 
