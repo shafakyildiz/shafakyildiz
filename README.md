@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **CRUD web apps, Diverse Dashboards, and E-Commerce apps**
 
-- 🌱 I’m currently learning **Node, .NET, SQL, Solidity, Svelte**
+- 🌱 I’m currently learning **Node, Spring, SQL, Solidity, Svelte**
 
 - 👨‍💻 All of my projects are available at https://shafakyildiz.github.io/
 
