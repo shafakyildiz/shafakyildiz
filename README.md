@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Miscellaneous Dashboards, E-Commerce apps, Social media apps, Mobile apps**
 
-- 🌱 I’m currently learning **Node, Express, NestJS, MongoDB, Solidity, Web3.js**
+- 🌱 I’m currently learning **Java and Spring**
 
 - 👨‍💻 All of my projects are available at https://shafakyildiz.github.io/
 
