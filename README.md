@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently working on **Miscellaneous Dashboards, E-Commerce apps, Social media apps, Mobile apps**
 
-- 👨‍💻 All of my projects are available at https://shafakyildiz.github.io/
+- 👨‍💻 All of my links are available at https://shafakyildiz.github.io/
 
 - 📝 I regularly write articles on [https://medium.com/@safakyildiz](https://medium.com/@safakyildiz)
 
-- 💬 Ask me about **React, Angular, Vue, Javascript, .NET, C#, Python**
+- 💬 Ask me about **React, Node, Express, Angular, Vue, Javascript, .NET, C#, Python**
 
 - 📫 How to reach me **shafakyildiz@gmail.com**
 
