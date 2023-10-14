@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shafakyildiz@gmail.com**
 
-- 📄 Know about my experiences [Here is my CV](https://docdro.id/t6yypqZ)
+- 📄 Know about my experiences [Here is my CV](https://docdro.id/LJuqeEO)
 
 
 <h3 align="left">Languages and Tools:</h3>
