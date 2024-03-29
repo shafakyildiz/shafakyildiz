@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Safak Yildiz</h1>
 <h3 align="center">A passionate software developer from whole 🌎</h3>
 
-- 🔭 I’m currently working on **Miscellaneous Dashboards, E-Commerce apps, Social media apps, Mobile apps**
+- 🔭 I’m currently working on **Miscellaneous Dashboards, E-Commerce apps, Social media apps, Mobile applications**
 
 - 👨‍💻 All of my links are available at https://shafakyildiz.github.io/
 
