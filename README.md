@@ -7,7 +7,7 @@
 
 - 📝 I regularly share articles on [https://medium.com/@safakyildiz](https://medium.com/@safakyildiz)
 
-- 💬 Ask me about **React, Node, Express, Angular, Vue, Javascript, .NET, C#, Python**
+- 💬 Ask me about **React, Node, Express, Angular, Vue, Javascript, .NET, C#, Python.**
 
 - 📫 How to reach me **shafakyildiz@gmail.com**
 
