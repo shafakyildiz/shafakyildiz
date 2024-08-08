@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Safak Yildiz</h1>
 <h2 align="center">A passionate software developer from 🌎</h3>
 
+<div align="center">
 ![Leetcode Stats](https://leetcard.jacoblin.cool/safakyildiz?theme=dark&font=Smooch%20Sans)
+</div>
 
 - 🔭 I’m currently working on **Miscellaneous Dashboards, E-Commerce apps, Social media apps, CRMs, Mobile applications**
 
