@@ -13,6 +13,8 @@
 
 - 📄 Know about my experiences [Here is my CV](https://docdro.id/LJuqeEO)
 
+- ![Leetcode Stats](https://leetcard.jacoblin.cool/safakyildiz?theme=dark&font=Smooch%20Sans)
+
 
 <h3 align="left">Languages and Tools:</h3>
 
