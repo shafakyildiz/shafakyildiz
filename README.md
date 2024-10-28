@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my links are available at https://shafakyildiz.github.io/
 
-- 📝 I regularly share articles on [https://medium.com/@safakyildiz](https://medium.com/@safakyildiz)
+- 📝 I regularly share articles my medium on [https://medium.com/@safakyildiz](https://medium.com/@safakyildiz)
 
 - 💬 Ask me about **React, .NET, C#, Node, Express, Angular, Vue, Javascript, Python.**
 
