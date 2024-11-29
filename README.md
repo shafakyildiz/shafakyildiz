@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on **Miscellaneous Dashboards, E-Commerce apps, Social media apps, CRMs, Mobile applications...**
 
-- 👨‍💻 All of my links are available at https://shafakyildiz.github.io/
+- 👨‍💻 All of my links are available at https://shafakyildiz.github.io
 
 - 📝 I regularly share articles my medium on [https://medium.com/@safakyildiz](https://medium.com/@safakyildiz)
 
