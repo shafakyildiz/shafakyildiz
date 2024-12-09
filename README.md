@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **shafakyildiz@gmail.com**
 
-- 📄 Know about my experiences [Here is my CV](blush-kathlin-38.tiiny.site)
+- 📄 Know about my experiences [Here is my CV](https://blush-kathlin-38.tiiny.site)
 
 
 
