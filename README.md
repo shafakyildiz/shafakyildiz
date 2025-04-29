@@ -6,7 +6,7 @@
 - 📝 I regularly publish articles on [Medium](https://medium.com/@safakyildiz)
 - 💬 Feel free to ask me about **React, .NET, C#, Node.js, Express, Angular, Vue, JavaScript, Python**, and more.
 - 📫 Reach me at: **shafakyildiz@gmail.com**
-- 📄 View my resume: [Click here to see my CV](https://blush-kathlin-38.tiiny.site)
+- 📄 View my resume: [Click here to see my CV]([https://blush-kathlin-38.tiiny.site](https://jmp.sh/iHcYm2vi))
 
 ---
 
