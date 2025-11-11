@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on **dashboards, e-commerce platforms, social media apps, CRMs, and mobile applications**.
 - 🌐 You can find all my links at: [shafakyildiz.github.io](https://shafakyildiz.github.io)
 - 📝 I regularly publish articles on [Medium](https://medium.com/@safakyildiz)
-- 💬 Feel free to ask me about **React, .NET, C#, Node.js, Express, Angular, Vue, JavaScript, Python**, and more...
+- 💬 Feel free to ask me about **React, .NET, C#, Node.js, Express, Angular, Vue, JavaScript, Python**, and more.
 - 📫 Reach me at: **shafakyildiz@gmail.com**
 - 📄 View my resume: [Click here to see my CV](https://jmp.sh/iHcYm2vi)
 
